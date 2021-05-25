@@ -1,0 +1,17 @@
+* {
+    margin: 0 auto;
+}
+
+.boxShell {
+    display: flex;
+}
+
+.videoBox {
+    display: flex;
+    justify-content: center;
+}
+
+#videoOp {
+    height: 800px;
+    width: 1200px;
+}
